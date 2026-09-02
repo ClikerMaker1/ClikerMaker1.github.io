@@ -1,1 +1,1 @@
-# ClikerMaker1.github.io
+1.0
